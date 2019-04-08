@@ -1,0 +1,7 @@
+We need to be carefull with:
+
+eval()
+arguments
+for in
+with
+delete
