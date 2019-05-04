@@ -27,4 +27,9 @@ console.log("Bob");
 
 /* Javascript conditionals */
 
+/* Javascript logical operators */
+// &&
+// ||
+// !
+
 
