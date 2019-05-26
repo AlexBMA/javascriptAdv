@@ -36,4 +36,9 @@ console.log(georghe);
 
 /* Javascript conditionals */
 
+/* Javascript logical operators */
+// &&
+// ||
+// !
+
 
